@@ -10,8 +10,8 @@ hohno-46466/hohno-46466 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Note: url = git@github.com:hohno-46466/hohno-46466.git
-
 Note: url = https://github.com/hohno-46466/hohno-46466
+
+Note: url = git@github.com:hohno-46466/hohno-46466.git
 
 -EOF-
